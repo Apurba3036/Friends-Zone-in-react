@@ -1,0 +1,19 @@
+.dibba{
+
+    border: 2px solid goldenrod;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: left;
+    background-color: rgb(75, 70, 70);
+    color: aliceblue;
+}
+
+.dibba button {
+
+    color: rgb(231, 223, 223);
+    font-size: 16px;
+    font-weight: 700;
+    background-color: rgb(20, 22, 22);
+}
+

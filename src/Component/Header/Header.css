@@ -1,0 +1,19 @@
+.nav{
+
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+.nav a{
+
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.nav a:hover{
+    color: rgb(173, 48, 48);
+    text-decoration: none;
+}
