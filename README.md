@@ -8,7 +8,10 @@ Here I have also used useNavigate() hook to handle the dynamic path and back to 
 
 At last there is not found page if the path is wrong. There is * in the path.
 
-Sometimes we face problem in netlify when we reload the other pages again. There is 404 not found page. To fix this issue, you need to create a _redirects file inside your public folder. Inside the folder we need to write:
+![image](https://github.com/Apurba3036/Friends-Zone-in-react/assets/99759729/0b5f621b-a344-4761-9b07-6fbcc2d6b0e9)
+
+Sometimes we face problem in netlify when we reload the other pages again. There is Page not found page. To fix this issue, you need to create a _redirects file inside your public folder. Inside the folder we need to write:
 
 /* /index.html 200
+
 
